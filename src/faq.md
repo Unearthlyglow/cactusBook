@@ -3,6 +3,8 @@
 - Hmmm, need to make sure this book is easy to navigate, quick, very informative should be the source of truth
 I can use the binder to help organize, be sure to refactor it 
 
+![The Rust Logo](images/g420.svg)
+
 Dummy Text!
 
 1. What types of products do you offer?
