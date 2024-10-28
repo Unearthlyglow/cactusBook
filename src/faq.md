@@ -3,10 +3,12 @@
 - Hmmm, need to make sure this book is easy to navigate, quick, very informative should be the source of truth
 I can use the binder to help organize, be sure to refactor it 
 
-![The Rust Logo](images/g420.svg)
 
-Dummy Text!
+## Images can be included!
+ ![Foot Logo](images/foot.svg) 
 
+---
+#### Dummy Text:
 1. What types of products do you offer?
 We offer a wide range of cannabis products, including flower, pre-rolls, edibles, concentrates, tinctures, and topicals. We also have a selection of accessories like vaporizers, pipes, and rolling papers.
 
@@ -43,5 +45,8 @@ Yes! We regularly offer promotions and discounts. Follow us on social media or s
 12. What should I do if I have a negative experience with a product?
 If you experience any adverse effects, stop using the product and consult a healthcare professional if necessary. We encourage you to reach out to us so we can help address your concerns.
 
+---
+
+### Keywords Help With Searches!
 
 Keywords: FAQ, Help, Frequently, Questions, (any other words that relate to the FAQ)
